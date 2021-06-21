@@ -1,0 +1,26 @@
+{
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[vue]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+
+	"eslint.validate": ["vue", "html", "javascript"],
+	"editor.tabSize": 2,
+	"workbench.colorCustomizations": {
+		"statusBar.background": "#832561",
+		"statusBar.border": "#832561",
+		"statusBar.foreground": "#e7e7e7",
+		"statusBarItem.hoverBackground": "#ab307e",
+		"tab.activeBorder": "#ab307e",
+		"titleBar.activeBackground": "#832561",
+		"titleBar.activeForeground": "#e7e7e7",
+		"titleBar.border": "#832561",
+		"titleBar.inactiveBackground": "#83256199",
+		"titleBar.inactiveForeground": "#e7e7e799"
+	},
+	"peacock.color": "#832561"
+}
